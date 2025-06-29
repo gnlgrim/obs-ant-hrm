@@ -1,4 +1,5 @@
-﻿# OBS ANT+ Hear Rate Monitor
+# I forked this Repo from https://github.com/julr/obs-ant-hrm - I mainly use it to import Heart Rate into RTSS ( Riva Tuner ) as i refused to pay for services that offer this type of app
+ # OBS ANT+ Hear Rate Monitor
 > A small tool to display your heart rate in OBS using a ANT+ hear rate sensor.
 
 ## Motivation
